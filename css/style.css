@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: #6e00ff;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,4 +14,8 @@ body {
 #cta-btn-text,
 .outline {
     cursor: pointer;
+}
+
+#shadow g path {
+    fill: #5200c3;
 }
