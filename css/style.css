@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    background-color: blue;
+    font-family: Poppins, Arial, sans-serif;
+}
+
+#cta-btn {
+    display: block;
+    margin: 0 auto;
+    max-width: 350px;
+    height: 100vh;
+    align-self: center;
+}
+
+#cta-btn-text,
+.outline {
+    cursor: pointer;
+}
